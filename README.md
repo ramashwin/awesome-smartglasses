@@ -30,9 +30,19 @@ Currently, we curate papers on 3 areas:
 | 2006 | Presence   | [The effects of text drawing styles, background textures, and natural lighting on text legibility in outdoor augmented reality](https://doi.org/10.1162/pres.2006.15.1.16)          |
 
 ## Interaction Techniques <a name="interaction"></a>
+
+### Voice-based 
+
 | Year | Venue | Paper                                                                                                                                                            |
 |------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2020 | CHI   | [Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays](https://doi.org/10.1145/3313831.3376852)  |
-| 2021 | ICMI 		| [Interaction Modalities for Notification Signals in Augmented Reality](https://doi.org/10.1145/3462244.3479898)                                          |
+| 2021 | ICMI  | [Interaction Modalities for Notification Signals in Augmented Reality](https://doi.org/10.1145/3462244.3479898)                                              	  |
+| 2020 | CHI   | [EYEditor: Towards On-the-Go Heads-up Text Editing UsingVoice and Manual Input](https://doi.org/10.1145/3313831.3376173)                                              	  |
 
+### Gaze-based
+
+### Gesture-based
+| Year | Venue | Paper                                                                                                                                                            |
+|------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2020 | CHI   | [Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays](https://doi.org/10.1145/3313831.3376852)  		  |
+| 2021 | MobileHCI  | [Ubiquitous Interactions for Heads-Up Computing: Understanding Users’ Preferences for Subtle Interaction Techniques in Everyday Settings](https://doi.org/10.1145/3447526.3472035)                                          																																	      |
 ## Protoyping Tools <a name="prototype"></a>
