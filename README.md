@@ -5,7 +5,7 @@ Currently, we curate papers on 3 areas:
 
 # Table of contents
 1. [Information Presentation](#design)
-2. [Interaction Techniques](#interaction)
+2. [Interaction Techniques & Systems](#interaction)
 3. [Prototyping Tools](#prototype)
 
 ## Information presentation <a name="design"></a>
@@ -57,6 +57,19 @@ Currently, we curate papers on 3 areas:
 | Year | Venue | Paper                                                                                                                                                            |
 |------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2022 | CHI   | [Hand Interfaces: Using Hands to Imitate Objects in AR/VR for Expressive Interactions](https://doi.org/10.1145/3491102.3501898)  		  |
-| 2020 | CHI   | [Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays](https://doi.org/10.1145/3313831.3376852)  		  |
 | 2021 | MobileHCI  | [Ubiquitous Interactions for Heads-Up Computing: Understanding Users’ Preferences for Subtle Interaction Techniques in Everyday Settings](https://doi.org/10.1145/3447526.3472035)                                          																																	      |
+| 2020 | CHI   | [Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays](https://doi.org/10.1145/3313831.3376852)  		  |
+
 ## Protoyping Tools <a name="prototype"></a>
+| Year | Venue | Paper                                                                                                                                                            |
+|------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2020 | CHI   | [Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction](https://doi.org/10.1145/3313831.3376160)  		  |
+| 2019 | CHI   | [360proto: Making interactive virtual reality & augmented reality prototypes from paper](https://doi.org/10.1145/3290605.3300826)  		  |
+| 2018 | CHI   | [ProtoAR: Rapid Physical-Digital Prototyping of Mobile Augmented Reality Applications](https://doi.org/10.1145/3173574.3173927)  		  |
+| 2015| VWHCI   | [A Prototyping Method to Simulate Wearable Augmented Reality Interaction in a Virtual Environment - A Pilot Study](https://doi.org/10.11159/vwhci.2015.003)  		  |
+| 2014 | AutomotiveUI   | [PapAR: Paper Prototyping for Augmented Reality](https://doi.org/10.1145/2667239.2667271)  		  |
+| 2013 | MobileHCI   | [WozARd: A Wizard of Oz Tool for Mobile AR](https://doi.org/10.1145/2667239.2667271)  		  |
+| 2011 | Multimedia Tools and Applications   | [AR-Room: a rapid prototyping framework for augmented reality applications](https://doi.org/10.1007/s11042-010-0592-1)  		  |
+| 2011 | CHI EA   | [Mobile augmented reality: video prototyping](https://doi.org/10.1145/1979742.1979927)  		  |
+| 2008 | ICMI   | [WozARd: A Wizard of Oz Tool for Mobile AR](https://doi.org/10.1145/1452392.1452444)  		  |
+| 2005 | ToG   | [DART: a toolkit for rapid design exploration of augmented reality experiences](https://doi.org/10.1145/1073204.1073288)  		  |
