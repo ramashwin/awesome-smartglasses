@@ -34,8 +34,13 @@ Currently, we curate papers on 3 areas:
 
 | Year | Venue | Paper                                                                                                                                                            |
 |------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022 | VR  | [Validating the Benefits of Glanceable and Context-Aware Augmented Reality for Everyday Information Access Tasks](https://doi.org/10.1109/VR51125.2022.00063)    |
+| 2021 | C&G  | [ARtention: A design space for gaze-adaptive user interfaces in augmented reality](https://doi.org/10.1016/j.cag.2021.01.001)    |
+| 2019 | IUI  | [Walking with Adaptive Augmented Reality Workspaces: Design and Usage Patterns](https://doi.org/10.1145/3301275.3302278)    |
+| 2019 | SUI  | [Adjustable Adaptation for Spatial Augmented Reality Workspaces](https://doi.org/10.1145/3357251.3358755)    |
 | 2019 | UIST  | [Context-Aware Online Adaptation of Mixed Reality Interfaces](https://doi.org/10.1145/3332165.3347945)    |
 | 2016 | VR    | [Adaptive information density for augmented reality displays](https://doi.org/10.1109/VR.2016.7504691)    |
+| 2015 | IUI    | [Halo Content: Context-aware Viewspace Management for Non-invasive Augmented Reality](https://doi.org/10.1145/2678025.2701375)    |
 | 2014 | AH    | [An information presentation method for head mounted display considering surrounding environments](https://doi.org/10.1145/2582051.2582098)    |
 
 ## Interaction Techniques & Systems <a name="interaction"></a>
@@ -47,11 +52,13 @@ Currently, we curate papers on 3 areas:
 | 2021 | ICMI  | [Interaction Modalities for Notification Signals in Augmented Reality](https://doi.org/10.1145/3462244.3479898)                                              	  |
 | 2020 | CHI   | [EYEditor: Towards On-the-Go Heads-up Text Editing UsingVoice and Manual Input](https://doi.org/10.1145/3313831.3376173)                                         |
 
-### Gaze-based
+### Vision-based
 | Year | Venue | Paper                                                                                                                                                            |
 |------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | UIST  | [iText: Hands-free Text Entry on an Imaginary Keyboard for Augmented Reality Systems](https://doi.org/10.1145/3472749.3474788)  		  |
 | 2019 | UIST  | [Gaze-Assisted Typing for Smart Glasses](https://doi.org/10.1145/3332165.3347883)  		  |
 | 2015 | IUI   | [Attention Engagement and Cognitive State Analysis for Augmented Reality Text Display Functions](https://doi.org/10.1145/2678025.2701384)  		  |
+s
 
 ### Gesture-based
 | Year | Venue | Paper                                                                                                                                                            |
@@ -59,6 +66,7 @@ Currently, we curate papers on 3 areas:
 | 2022 | CHI   | [Hand Interfaces: Using Hands to Imitate Objects in AR/VR for Expressive Interactions](https://doi.org/10.1145/3491102.3501898)  		  |
 | 2021 | MobileHCI  | [Ubiquitous Interactions for Heads-Up Computing: Understanding Users’ Preferences for Subtle Interaction Techniques in Everyday Settings](https://doi.org/10.1145/3447526.3472035)                                          																																	      |
 | 2020 | CHI   | [Walk The Line: Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays](https://doi.org/10.1145/3313831.3376852)  		  |
+| 2018 | TOCHI   | [Fast and Precise Touch-Based Text Entry for Head-Mounted Augmented Reality with Variable Occlusion](https://doi.org/10.1145/3232163)  		  |
 
 ## Protoyping Tools <a name="prototype"></a>
 | Year | Venue | Paper                                                                                                                                                            |
